@@ -1,0 +1,41 @@
+
+#landingImg{
+    height: 500px;
+}
+
+#landing_wrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    /* position: relative; */
+    /* padding-right: 200px; */
+}
+
+#landing_img{
+    padding-right: 100px;
+}
+
+#landing_div{
+    margin-top: 150px;
+}
+
+#landing_text{
+    font-size: 40px;
+    color: #006238;
+}
+
+#landing_btn{
+    margin-left: 60px;
+    background-color: white;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    border: 3px solid #006238;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#landing_btn_text{
+    font-size: 16px;
+    color: #006238;
+}
